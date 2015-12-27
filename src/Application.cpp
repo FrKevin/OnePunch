@@ -1,5 +1,5 @@
-#include "Application.hpp"
-#include "Config.hpp"
+#include "../include/Application.hpp"
+#include "../include/Config.hpp"
 #include <iostream>
 using namespace std;
 
