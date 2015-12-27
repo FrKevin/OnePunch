@@ -1,9 +1,8 @@
 #include <iostream>
 
-#include "../../include/core/Application.hpp"
-#include "../../include/core/Config.hpp"
+#include "core/Application.hpp"
+#include "core/Config.hpp"
 
-using namespace std;
 
 Application::Application():
     _window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), WINDOW_NAME)
