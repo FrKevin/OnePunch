@@ -1,6 +1,8 @@
-#include "../include/Application.hpp"
-#include "../include/Config.hpp"
 #include <iostream>
+
+#include "../../include/core/Application.hpp"
+#include "../../include/core/Config.hpp"
+
 using namespace std;
 
 Application::Application():

@@ -1,5 +1,6 @@
 #include <stdlib.h>
-#include "src/Application.cpp"
+
+#include "src/core/Application.cpp"
 
 
 int main()
