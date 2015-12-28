@@ -82,9 +82,11 @@
 		<Unit filename="include/core/Application.hpp" />
 		<Unit filename="include/core/Config.hpp" />
 		<Unit filename="include/entity/Entity.hpp" />
+		<Unit filename="include/entity/Player.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/core/Application.cpp" />
 		<Unit filename="src/entity/Entity.cpp" />
+		<Unit filename="src/entity/Player.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
