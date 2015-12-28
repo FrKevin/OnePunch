@@ -6,15 +6,12 @@
 
 Application::Application():
     _window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), WINDOW_NAME)
-{
-    //ctor
-}
+{}
 
-Application::~Application()
-{
-    //dtor
-    //delete _instance;
-}
+/**
+    Destructor
+*/
+Application::~Application(){}
 
 
 void Application::run()
